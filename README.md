@@ -12,4 +12,4 @@ This repository contains the landing page for the asimov project
 - Sabino Valer, Rodrigo Andre U201811286
 - Tejada Quijandría, Pablo Sergio U201523331
 
-See [Landing Page deployed](https://cybersoft-asimov-20212.github.io/landing-page-asimov/).
+See [Landing Page deployed](https://appmobile-cybersoft-asimov.github.io/Landing-Page/).
